@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how code C# and motion design 
 - 💞️ I’m looking to collaborate on games, software, anything worthwhile
 - 📫 How to reach me via Email: netsnamgreb@gmail.com
+- 📣 Best way to reach me is on Discord: Nets#2628
 
 <!---
 StenAskerBergman/StenAskerBergman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
