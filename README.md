@@ -8,9 +8,11 @@
 - 🥰 Dribbble: https://dribbble.com/stenbergman
 
 ---
-Looking to be part of a bigger Project
-My Website is down :(  
+Always Open to be a part of Project
 ---
+
+###My Website is down :(  
+
 
 > Friendly Reminder that Activity bar doesn't not display coding activity :) Just Upload Activity 
 <!---
