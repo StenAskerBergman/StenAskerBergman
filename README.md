@@ -7,10 +7,16 @@
 - 🧙‍♂️ Code Pen: https://codepen.io/StenBergman
 - 🥰 Dribbble: https://dribbble.com/stenbergman
 
+---
+Looking to be part of a bigger Project
+My Website is down :(  
+---
+
 > Friendly Reminder that Activity bar doesn't not display coding activity :) Just Upload Activity 
 <!---
 StenAskerBergman/StenAskerBergman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
 
